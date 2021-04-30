@@ -1,0 +1,125 @@
+.TopMenu-Thick-Right {
+    visibility: hidden;
+}
+
+.TopMenu-Thick-Bg-Right-2 {
+    visibility: hidden;
+}
+
+.TopMenu-Thick-Bg-Right {
+    visibility: hidden;
+}
+
+.TopMenu-Thick-Left {
+    visibility: hidden;
+}
+
+.TopMenu-Thick-Bg-Left-2 {
+    visibility: hidden;
+}
+
+.TopMenu-Thick-Bg-Left {
+    visibility: hidden;
+}
+
+.TopMenu-Menu-Right-Bg {
+    visibility: hidden;
+}
+
+.TopMenu-MenuActive-Right {
+    visibility: hidden;
+}
+
+.TopMenu-Menu-Left-Bg {
+    visibility: hidden;
+}
+
+.TopMenu-MenuActive-Left {
+    visibility: hidden;
+}
+
+#top {
+    background: rgb(56, 60, 66);
+}
+
+#logo_image {
+    border-radius: 10px;
+}
+
+#logo {
+    background-image: none;
+    border-radius: 10px;
+}
+
+.divider {
+    visibility: hidden;
+}
+
+.top-gray-bar-info {
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.h2_box {
+    background-image: none;
+}
+
+.h2_box_icon {
+    display: none;
+}
+
+#date-2 {
+    background-image: none;
+}
+
+#date-1 {
+    background-image: none;
+}
+
+#date-0 {
+    background-image: none;
+}
+
+.TopMenu-MenuInactive-Bg {
+    background-image: none;
+}
+
+.TopMenu-MenuActive-Bg {
+    background-image: none;
+}
+
+.border-bottom {
+    visibility: hidden;
+    display: none;
+}
+
+.h1 {
+    visibility: hidden;
+    display: none;
+}
+
+#startmenu {
+    font-size: 20px;
+}
+
+#profile {
+    font-size: 20px;
+}
+
+#school {
+    font-size: 20px;
+}
+
+.expand_image {
+    display: none;
+}
+
+.img-rounded {
+    border-radius: 7px;
+}
+
+#menu {
+    border-radius: 10px;
+}
+
+
